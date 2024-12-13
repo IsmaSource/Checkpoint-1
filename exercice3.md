@@ -1,0 +1,15 @@
+- 1 : cut -d: -f1 /etc/passwd
+- 2 : chmod 744 myfile
+- 3 : Dans un fichier .gitignore, écrire "*.pdf"
+- 4 : git pull origin main / git merge test_valide
+- 5 : echo "Malgré le prix élevé de 100\$, il a dit \"Bonjour !\" au vendeur :"
+  - echo "- \"Bonjour est-ce que ce clavier fonctionne bien ?\""
+  - echo "- \"Evidemment ! On peut tout écrire avec, que ce soit des pipe | ou bien des backslash \\\\ !\""
+  - echo "- \"Même des tildes ~ ?\""
+  - echo "- \"Evidemment !\""
+- 6 : fg %1
+- 7 : Couche 2 : Switches/Bridges --> trames basées sur les adresses MAC / connexion des segments de réseau pour gérer le trafic
+  - Couche 3 : Routeurs/Gateways --> paquets basées sur les adresses IP / liaison des réseaux utilisant des protocoles différents
+- 8 : cd (__Bash__) -> Set-Location (__PowerShell__) / cp (__Bash__) -> Copy-Item (__PowerShell__) / mkdir (__Bash__) -> New-Item (__PowerShell__) / ls (__Bash__) -> Get-ChildItem (__PowerShell__)
+- 9 : Le payload est une partie de la trame ethernet qui comporte les données réelles que l'on souhaite transmettre.
+- 10 : Le passage du système de calsses IP à CIDR permet une gestion plus flexible et plus efficace des adresses IP. La classe CIDR permet aussi uen réduction de gaspillage d'adresses et améliore le routage global sur internet.
